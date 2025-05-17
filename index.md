@@ -1,5 +1,12 @@
 ---
 layout: home
 list_title: "Recent Posts"
+permalink: /blog/
+nav-include: true
+nav-order: 1
 ---
-Welcome to my personal website. You can read about my alpine adventures in my blog. 
+<style>
+    #Blog-nav-item { 
+        font-weight: bold;
+    }
+</style>

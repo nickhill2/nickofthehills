@@ -6,7 +6,7 @@ nav-include: true
 nav-order: 2
 ---
 <style>
-    .About-nav-item { 
+    #About-nav-item { 
         font-weight: bold;
     }
 </style>
