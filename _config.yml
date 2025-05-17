@@ -1,7 +1,7 @@
 remote_theme: jekyll/minima
 title: Nick Hill
 minima:
-  skin: solarized-light
+  skin: solarized
   nav_pages:
     - about.md
     - contact.md
