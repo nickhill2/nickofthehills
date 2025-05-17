@@ -1,4 +1,3 @@
 ---
 ---
-hello world.
-
+My personal blog for alpine adventures. 
