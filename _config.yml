@@ -3,7 +3,7 @@ title: Nick Hill
 minima:
   skin: solarized
   nav_pages:
-    - index.md
+    - blog.md
     - about.md
     - contact.md
 plugins:
