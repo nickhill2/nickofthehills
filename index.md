@@ -1,12 +1,12 @@
 ---
 layout: home
-list_title: "Recent Posts"
-permalink: /blog/
+title: Blog
+list_title: "Recent Posts" 
 nav-include: true
 nav-order: 1
 ---
 <style>
     #Blog-nav-item { 
-        font-weight: bold;
+        font-weight: 800;
     }
 </style>
