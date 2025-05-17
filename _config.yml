@@ -1,4 +1,5 @@
 theme: minima
+title: Nick Hill
 minima:
   nav_pages:
     - about.md
