@@ -1,5 +1,16 @@
 <header class="site-header">
 
+<style>
+.site-header-picture { 
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+</style>
+<div class="site-header-picture">
+    <img src="assets/img/nickofthehills.png"/> 
+</div>
+
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
@@ -15,16 +26,4 @@
       </nav>
     {%- endunless %}
   </div>
-
-<style>
-.site-header-picture { 
-    width: 800px;
-    margin: auto;
-    text-align: center;
-}
-</style>
-<div class="site-header-picture">
-    <img src="assets/img/nickofthehills.png"/> 
-</div>
-
 </header>
