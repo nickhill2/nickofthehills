@@ -1,3 +1,7 @@
 ---
+layout: home
+nav-include: true
+nav-order: 2
+list_title: "Recent Posts"
 ---
-My personal blog for alpine adventures. 
+Welcome to my personal website. You can read about my alpine adventures in my blog. 
