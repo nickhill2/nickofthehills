@@ -3,7 +3,12 @@
     margin: auto;
     text-align: center;
 }
-.post-title, h2 {
+.post-title h2 {
+  text-align: left;
+  font-size: 25px;
+}
+
+.page-title h2 {
   text-align: left;
   font-size: 25px;
 }
