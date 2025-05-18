@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Blog
 nav-include: true
 nav-order: 1
 ---
