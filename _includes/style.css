@@ -1,0 +1,9 @@
+.site-header-picture { 
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+.post-title, .post-content h1 {
+  text-align: left;
+  font-size: 25px;
+}
